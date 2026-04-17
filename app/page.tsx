@@ -41,9 +41,9 @@ export default function Home() {
       pages: [
         "/q1.png",
         "/master plan .jpg",
-        "/w.jpg",
-        "/y.jpg",
-        "/x.jpg",
+        "/W.jpg",
+        "/Y.jpg",
+        "/X.jpg",
         "/cover.png",
         "/r1.png",
         "/vue haut.png",
