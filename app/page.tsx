@@ -392,7 +392,7 @@ export default function Home() {
               </p>
               <div className="mt-5 flex flex-wrap gap-3">
                 <a
-                  href="/CV Yves Sonkoue.pdf"
+                  href="/CV-YVES-SONKOUE-F.pdf"
                   target="_blank"
                   rel="noreferrer"
                   className="rounded-2xl bg-white px-4 py-3 text-sm font-medium text-black"
@@ -400,7 +400,7 @@ export default function Home() {
                   Ouvrir
                 </a>
                 <a
-                  href="/CV Yves Sonkoue.pdf"
+                  href="/CV-YVES-SONKOUE-F.pdf"
                   download
                   className="rounded-2xl border border-white/15 px-4 py-3 text-sm font-medium text-white transition hover:bg-white/5"
                 >
@@ -416,7 +416,7 @@ export default function Home() {
               </p>
               <div className="mt-5 flex flex-wrap gap-3">
                 <a
-                  href="/CV-SONKOUE YVES ITA.pdf"
+                  href="/CV-YVES-SONKOUE-I.pdf"
                   target="_blank"
                   rel="noreferrer"
                   className="rounded-2xl bg-white px-4 py-3 text-sm font-medium text-black"
@@ -424,7 +424,7 @@ export default function Home() {
                   Apri
                 </a>
                 <a
-                  href="/CV-SONKOUE YVES ITA.pdf"
+                  href="/CV-YVES-SONKOUE-I.pdf"
                   download
                   className="rounded-2xl border border-white/15 px-4 py-3 text-sm font-medium text-white transition hover:bg-white/5"
                 >
