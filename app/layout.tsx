@@ -15,15 +15,16 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Yves Merlin Sonkoue Tatang | Architecte BIM Portfolio",
   description:
-    "Portfolio de Yves Merlin Sonkoue Tatang, architecte BIM Modeler spécialisé en conception architecturale, modélisation et projets urbains.",
+    "Portfolio de Yves Merlin Sonkoue Tatang, architecte BIM Modeler spécialisé en conception architecturale.",
   keywords: [
     "Yves Merlin Sonkoue Tatang",
     "architecte",
     "portfolio architecture",
     "BIM",
-    "architecte Italie",
-    "architecture Douala",
   ],
+  verification: {
+    google: "FppGrWw5gRAP9Kw9wF-JtsA99DoDQ4iouMUHvKOpFEQ",
+  },
 };
 
 export default function RootLayout({
