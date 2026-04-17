@@ -142,7 +142,7 @@ export default function Home() {
 
       <section id="home" className="relative min-h-[90vh] overflow-hidden">
         <img
-          src="/cover.PNG"
+          src="/cover2.png"
           alt="Image de couverture du portfolio"
           className="absolute inset-0 h-full w-full object-cover"
         />
