@@ -92,10 +92,10 @@ export default function Home() {
       description:
         "Ajoute ici ton deuxième concours en expliquant les objectifs, la réponse architecturale et les outils mobilisés.",
       tags: ["Concours", "Paysage", "Innovation"],
-      cover: "/GARDEN.PNG",
+      cover: "/garden-cover.png",
       pages: [
-        "/54024_1.pdf",
-        "/54024_2.pdf",
+        "/garden1_1.jpg",
+        "/garden1_2.jpg",
         
       ],
     },
