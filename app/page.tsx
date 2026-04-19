@@ -76,14 +76,14 @@ export default function Home() {
       description:
         "Ajoute ici la description complète de ton concours Kaira Looro : concept, stratégie architecturale, réponse au site, matériaux, approche environnementale et éléments forts du projet.",
       tags: ["Concours", "Conception", "Architecture"],
-      cover: "/KAIRA.PNG",
+      cover: "/kaira-loro.png",
       pages: [
         "/Artboard 40 copy 7.jpg",
         "/Artboard 40 copy 8.jpg",
         "/k1.png",
-        "/kaira.png",
-        "/rendu 4.jpg",
-        "/rendu 2.jpg",
+        "/kaira-loro.png",
+        "/RENDU 4.jpg",
+        "/RENDU 2.jpg",
         
       ],
     },
